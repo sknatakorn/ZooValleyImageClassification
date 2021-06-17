@@ -3,7 +3,7 @@
 #include <LEDMatrix.h>
 #include <LEDText.h>
 #include <FontMatrise.h>
-
+// add
 // Change the next 6 defines to match your matrix type and size
 
 #define LED_PIN        6
